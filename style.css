@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background: linear-gradient(135deg, #74ebd5 0%, #ACB6E5 100%);
+  background: yellow;
   color: #222;
   text-align: center;
   height: 100vh;
@@ -11,7 +11,7 @@ body {
 }
 
 .container {
-  background: rgba(255, 255, 255, 0.85);
+  background: purple;
   padding: 40px;
   border-radius: 15px;
   box-shadow: 0 8px 20px rgba(0,0,0,0.2);
